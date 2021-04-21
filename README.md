@@ -5,7 +5,7 @@ This is a simple Recipe Webapp made by using different technologies listed below
 Spring
 hibernate 
 JPA
-Bootstrap, HTML
+Bootstrap, HTML,
 JUnit and Mockito for testing
 The IDE used was Intellij (Maven)
 
